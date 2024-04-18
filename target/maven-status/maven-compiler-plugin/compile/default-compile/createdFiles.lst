@@ -1,0 +1,6 @@
+kafka\SinkTopicConsumerTest.class
+spark\SparkKafkaBatchConsumer.class
+App.class
+kafka\KafkaProducerNew.class
+kafka\KafkaConnectionTest.class
+spark\SparkKafkaBatchConsumer$1.class
